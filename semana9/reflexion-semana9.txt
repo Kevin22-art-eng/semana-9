@@ -1,0 +1,10 @@
+Las plataformas tecnológicas que usan las comunidades necesitan funcionar de manera estable y segura en un servidor porque de ello depende la confianza de sus usuarios.  
+Un servidor estable garantiza que la información esté disponible sin interrupciones, lo que permite la continuidad de las actividades comunitarias.  
+La seguridad protege los datos personales y colectivos, evitando accesos no autorizados o manipulaciones indebidas.  
+Cuando el servidor falla o no es seguro, la comunidad puede perder interés y dejar de participar.  
+Además, la estabilidad asegura que las herramientas funcionen correctamente y que las decisiones tomadas en la plataforma se registren sin errores.  
+La seguridad también fortalece la transparencia, ya que los usuarios saben que sus aportes están protegidos.  
+Un servidor confiable permite que la comunidad se enfoque en sus objetivos sin preocuparse por riesgos técnicos.  
+De esta manera, la tecnología se convierte en un apoyo real para la participación ciudadana.  
+La combinación de estabilidad y seguridad hace que la plataforma sea sostenible en el tiempo.  
+En última instancia, un servidor seguro y estable es la base para que la comunidad confíe y se involucre activamente.  
